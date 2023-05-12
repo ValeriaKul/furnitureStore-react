@@ -3,3 +3,5 @@ npm i react-router-dom
 npm i axios
 
 npm i react-paginate
+
+npm install @mui/material @emotion/react @emotion/styled

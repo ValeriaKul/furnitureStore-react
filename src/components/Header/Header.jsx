@@ -15,9 +15,9 @@ const Header = () => {
                     <a href="/" className={styles.link}>Contact</a>
                 </nav>
                 <div className={styles.icons}>
-                    <a href="/" className={styles.icon}>
+                    <NavLink to="/account" className={styles.icon}>
                         <img src="/images/profile-icon.png" alt="" className={styles.icon} />
-                    </a>
+                    </NavLink>
                     <p className={styles.icon}>
                         <img src="/images/search-icon.png" alt="" className={styles.icon} />
                     </p>
